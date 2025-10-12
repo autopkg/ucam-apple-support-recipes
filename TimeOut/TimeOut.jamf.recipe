@@ -44,7 +44,7 @@
 	<key>MinimumVersion</key>
 	<string>2.0.0</string>
 	<key>ParentRecipe</key>
-	<string>TimeOut.pkg.recipe</string>
+	<string>uk.ac.ox.orchard.pkg.TimeOut</string>
 	<key>Process</key>
 	<array>
 		<dict>
