@@ -41,7 +41,6 @@ import requests  # pylint: disable=import-error
 
 from autopkglib import Processor  # pylint: disable=import-error
 
-
 __all__ = ["TeamsPostJSS"]
 
 
