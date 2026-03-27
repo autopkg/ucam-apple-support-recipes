@@ -44,7 +44,7 @@
 	<key>MinimumVersion</key>
 	<string>2.0.0</string>
 	<key>ParentRecipe</key>
-	<string>Grammarly.pkg.recipe</string>
+	<string>com.github.homebysix.pkg.Grammarly</string>
 	<key>Process</key>
 	<array>
 		<dict>
