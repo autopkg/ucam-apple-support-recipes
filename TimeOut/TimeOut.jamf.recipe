@@ -47,6 +47,13 @@
 	<string>uk.ac.ox.orchard.pkg.TimeOut</string>
 	<key>Process</key>
 	<array>
+		<key>Processor</key>
+    	<string>DeprecationWarning</string>
+    	<key>Arguments</key>
+    	<dict>
+        	<key>warning_message</key>
+        	<string>This repository is now deprecated.</string>
+    	</dict>
 		<dict>
 			<key>Arguments</key>
 			<dict>
